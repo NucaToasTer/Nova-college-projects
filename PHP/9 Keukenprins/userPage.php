@@ -3,7 +3,6 @@ require 'conn.php';
 require 'User.php';
 require 'Session.php';
 require 'Blog.php';
-include "cLog.php";
 
 $session = User::findActiveSession();
 
@@ -18,8 +17,6 @@ if (!$session) {
     if (!$tempName->role) {
 
         echo ("hello "  . $tempName->firstName .  "<br>");
-
-        console_dump($tempName);
 
         $blogs = Blog::findAllByAuthor($tempName->userName);
 
