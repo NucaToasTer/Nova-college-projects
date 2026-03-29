@@ -18,7 +18,6 @@ foreach ($blogs as $blog) {
     echo "<td>" . $blog->blogAuthor . "</td>";
     echo "</tr>";
 }
-//echo "<td><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg' alt='Blog Image' width='200'></td>";
 echo "</table>";
 echo "<br>";
 echo '<a href="login.php">Log in</a>';
