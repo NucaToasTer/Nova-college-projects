@@ -1,10 +1,7 @@
 <?php
 require 'Blog.php';
-//include "cLog.php";
 
 $blogs = Blog::findById($_GET['id']);
-
-//console_dump($blogs);
 
 echo "<table border='1' cellpadding='8' cellspacing='0'>";
 echo "<tr><td>Blog title</td><td>Blog image</td><td>Blog content</td><td>Blog author</td></tr>";
