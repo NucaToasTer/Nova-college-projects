@@ -1,6 +1,5 @@
 <?php
 require 'Blog.php';
-include "cLog.php";
 
 $blogs = Blog::allblogs();
 
