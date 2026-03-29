@@ -1,0 +1,112 @@
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\ethan\Desktop\C#forms\base\boilerplate\obj\Debug\net9.0-windows\ref\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\ethan\Desktop\C#forms\textbox\boilerplate\obj\Debug\net9.0-windows\ref\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox - Copy\boilerplate\obj\Debug\net9.0-windows\ref\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\Ethan\Documents\nova\code\c#\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\ref\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\ethan\Desktop\C#forms\textbox picturebox\boilerplate\obj\Debug\net9.0-windows\ref\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\ethan\Desktop\C#forms\z.projects\tamagotchi\obj\Debug\net9.0-windows\ref\boilerplate.dll
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\ref\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.exe
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.deps.json
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.runtimeconfig.json
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\bin\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.AssemblyInfo.cs
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\refint\boilerplate.dll
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.pdb
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\boilerplate.genruntimeconfig.cache
+C:\Users\Ethan\Documents\nova\code\c#\New folder (3)\tamagotchi\obj\Debug\net9.0-windows\ref\boilerplate.dll
