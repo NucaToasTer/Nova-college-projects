@@ -33,7 +33,3 @@ class OrderLine
         return $oLines;
     }
 }
-
- 
-//orders oder_id 1-8 8_items
-//oder_lines order_line_order_id 1-8 19_items
