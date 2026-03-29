@@ -173,12 +173,4 @@ class Session
 
         $conn->close();
     }
-
-    // Get the user associated with this session
-    public function getUser()
-    {
-        // You'll need to include the User class and add a findById method
-        // or modify your existing User class to find by ID
-        return null; // Placeholder
-    }
 }
